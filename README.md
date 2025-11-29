@@ -2,15 +2,15 @@
 
 Projeto simples de lista de tarefas feito com *HTML, CSS e JavaScript*.
 
- Funcionalidades
+ Funcionalidades:
 - Adicionar tarefa  
 - Marcar como concluída  
 - Excluir tarefa  
 
- Como usar
+ Como usar:
 Abra o arquivo *index.html* no navegador e use a lista.
 
- Arquivos
+ Arquivos:
 - index.html  
 - style.css  
 - script.js
